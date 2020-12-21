@@ -1,3 +1,4 @@
+<b> Important note: <b><br/>
 BinGoog is written for Chrome, so download a chromedriver.exe that corresponds to the same version as your Chrome web browser and copy it in the directory of "BinGoog.exe". The webdriver uploaded here is for Chrome 87. 
 
 
